@@ -1,7 +1,7 @@
 # PROMPT-ENGINEERING-2. Comparative Analysis of Different Types of Prompting Patterns and Test Scenarios
 ```
-NAME: DARIO G
-REG N0: 212222230027
+NAME: HARIPRIYA K
+REG N0: 212223220030
 ```
 
 ## 1. Introduction to Prompting Patterns
